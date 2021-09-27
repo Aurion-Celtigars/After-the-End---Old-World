@@ -878,7 +878,7 @@ e_thailand = {
 			color={ 186 128 13 }
 			color2={ 255 255 255 }
 
-			capital = 2611 #
+			capital = 2611 #I wanted to fix this 
 			
 			c_nakhom_pathom = {
 				color={ 186 128 13 }
